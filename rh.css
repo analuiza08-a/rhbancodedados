@@ -1,0 +1,54 @@
+.oi{
+    color: darkblue;
+    font-size:5em;
+    align-items: center;
+    text-align: center;
+}
+.ana{
+    color: darkblue;
+    font-size: 3.5em;
+    align-items: center;
+    text-align: center;
+}
+label{
+    font-size: 1.5em;
+    color: darkblue;
+    align-items: center;
+    text-align: center; 
+    font-weight: bold; 
+}
+
+button{
+    font-size: 1.5em;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: darkblue;
+    align-items: center;
+    text-align: center;
+    border: 2px;
+}
+
+input{
+    padding: 7px;
+    margin: 10px;
+    font-size: 1.5em;
+    border-radius: 7px;
+    background-color:whitesmoke;
+    border: darkblue solid 2px;
+}
+
+body{
+    font-family: Cambria;
+    background-color: rgb(190, 230, 255);
+    height: 100vh; 
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    padding: 20px;
+    align-items: center;
+    display: flex; 
+    flex-direction: column;
+  }
